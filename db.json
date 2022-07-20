@@ -8,15 +8,6 @@
       "comment": "this is ani apple",
       "date": "2022-07-18T18:30:00.000Z",
       "id": 1
-    },
-    {
-      "productName": "Pineapple",
-      "category": "Fruits",
-      "freshness": "Second Hand",
-      "price": 65,
-      "comment": "this is a pineapple",
-      "date": "2022-07-12T18:30:00.000Z",
-      "id": 2
     }
   ],
   "comments": [
