@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 320,
+      "comment": "this is ani apple",
+      "date": "2022-07-18T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Pineapple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 65,
+      "comment": "this is a pineapple",
+      "date": "2022-07-12T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
