@@ -8,6 +8,51 @@
       "comment": "this is ani apple",
       "date": "2022-07-18T18:30:00.000Z",
       "id": 1
+    },
+    {
+      "productName": "Nothing phone 1",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 35000,
+      "comment": "special edition with back light",
+      "date": "2022-07-17T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "OnePlus 7t pro",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 39000,
+      "comment": "curved screen with onscreen lock",
+      "date": "2017-06-12T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Tamato",
+      "category": "Vagetables",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "its red",
+      "date": "2022-07-18T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Alienware lap",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 90000,
+      "comment": "gaming lap this NVidia card",
+      "date": "2016-03-17T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Bananna",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "its yellow man",
+      "date": "2022-07-19T18:30:00.000Z",
+      "id": 6
     }
   ],
   "comments": [
